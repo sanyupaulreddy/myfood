@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Butter Chicken",
+    "description": "Creamy tomato-based curry with marinated chicken and spices",
+    "price_inr": 300
+  },
+  {
+    "id": 2,
+    "name": "Paneer Tikka",
+    "description": "Grilled chunks of paneer cheese marinated in spices",
+    "price_inr": 250
+  },
+  {
+    "id": 3,
+    "name": "Masala Dosa",
+    "description": "Thin crepe made from fermented rice and lentil batter, filled with spiced potatoes",
+    "price_inr": 150
+  },
+  {
+    "id": 4,
+    "name": "Biryani",
+    "description": "Fragrant rice dish cooked with spices and meat or vegetables",
+    "price_inr": 350
+  },
+  {
+    "id": 5,
+    "name": "Palak Paneer",
+    "description": "Creamy spinach curry with cubes of paneer cheese",
+    "price_inr": 250
+  },
+  {
+    "id": 6,
+    "name": "Rogan Josh",
+    "description": "Spicy Kashmiri curry with tender pieces of meat",
+    "price_inr": 400
+  },
+  {
+    "id": 7,
+    "name": "Pani Puri",
+    "description": "Hollow fried puris filled with spicy water, tamarind chutney, and chickpeas",
+    "price_inr": 50
+  },
+  {
+    "id": 8,
+    "name": "Aloo Paratha",
+    "description": "Whole wheat flatbread stuffed with spiced mashed potatoes",
+    "price_inr": 100
+  },
+  {
+    "id": 9,
+    "name": "Samosa",
+    "description": "Crispy pastry filled with spiced potatoes, peas, and sometimes meat",
+    "price_inr": 20
+  },
+  {
+    "id": 10,
+    "name": "Pav Bhaji",
+    "description": "Mashed mixed vegetables cooked with spices, served with buttered bread rolls",
+    "price_inr": 40
+  },
+  {
+    "id": 11,
+    "name": "Vada Pav",
+    "description": "Spicy potato fritter served in a bun with chutneys",
+    "price_inr": 30
+  },
+  {
+    "id": 12,
+    "name": "Jalebi",
+    "description": "Deep-fried batter spirals soaked in sugar syrup, crispy and sweet",
+    "price_inr": 15
+  },
+  {
+    "id": 13,
+    "name": "Chicken Biryani",
+    "description": "Fragrant rice dish cooked with spices and chicken",
+    "price_inr": 400
+  },
+  {
+    "id": 14,
+    "name": "Fish Curry",
+    "description": "Spicy curry made with fish and coconut milk, flavored with spices",
+    "price_inr": 350
+  },
+  {
+    "id": 15,
+    "name": "Pulao",
+    "description": "Fragrant rice dish cooked with spices, vegetables, and sometimes meat",
+    "price_inr": 200
+  },
+  {
+    "id": 16,
+    "name": "Chicken Tikka",
+    "description": "Marinated chicken pieces grilled to perfection",
+    "price_inr": 300
+  },
+  {
+    "id": 17,
+    "name": "Dal Makhani",
+    "description": "Creamy lentil curry made with black lentils and kidney beans",
+    "price_inr": 250
+  },
+  {
+    "id": 18,
+    "name": "Tandoori Chicken",
+    "description": "Chicken marinated in yogurt and spices, cooked in a tandoor oven",
+    "price_inr": 200
+  },
+  {
+    "id": 19,
+    "name": "Malai Kofta",
+    "description": "Creamy curry made with deep-fried vegetable balls and a rich tomato-based sauce",
+    "price_inr": 250
+  },
+  {
+    "id": 20,
+    "name": "Chole Bhature",
+    "description": "Spiced chickpea curry served with deep-fried bread",
+    "price_inr": 200
+  }
+]
